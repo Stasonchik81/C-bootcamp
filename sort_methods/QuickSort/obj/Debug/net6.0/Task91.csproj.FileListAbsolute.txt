@@ -1,0 +1,15 @@
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\С#seminars\Task91\bin\Debug\net6.0\Task91.exe
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\С#seminars\Task91\bin\Debug\net6.0\Task91.deps.json
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\С#seminars\Task91\bin\Debug\net6.0\Task91.runtimeconfig.json
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\С#seminars\Task91\bin\Debug\net6.0\Task91.dll
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\С#seminars\Task91\bin\Debug\net6.0\Task91.pdb
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\С#seminars\Task91\obj\Debug\net6.0\Task91.csproj.AssemblyReference.cache
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\С#seminars\Task91\obj\Debug\net6.0\Task91.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\С#seminars\Task91\obj\Debug\net6.0\Task91.AssemblyInfoInputs.cache
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\С#seminars\Task91\obj\Debug\net6.0\Task91.AssemblyInfo.cs
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\С#seminars\Task91\obj\Debug\net6.0\Task91.csproj.CoreCompileInputs.cache
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\С#seminars\Task91\obj\Debug\net6.0\Task91.dll
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\С#seminars\Task91\obj\Debug\net6.0\refint\Task91.dll
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\С#seminars\Task91\obj\Debug\net6.0\Task91.pdb
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\С#seminars\Task91\obj\Debug\net6.0\Task91.genruntimeconfig.cache
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\С#seminars\Task91\obj\Debug\net6.0\ref\Task91.dll

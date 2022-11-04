@@ -1,0 +1,15 @@
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\BootCamp\sort_methods\CounterSort\bin\Debug\net6.0\CounterSort.exe
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\BootCamp\sort_methods\CounterSort\bin\Debug\net6.0\CounterSort.deps.json
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\BootCamp\sort_methods\CounterSort\bin\Debug\net6.0\CounterSort.runtimeconfig.json
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\BootCamp\sort_methods\CounterSort\bin\Debug\net6.0\CounterSort.dll
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\BootCamp\sort_methods\CounterSort\bin\Debug\net6.0\CounterSort.pdb
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\BootCamp\sort_methods\CounterSort\obj\Debug\net6.0\CounterSort.csproj.AssemblyReference.cache
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\BootCamp\sort_methods\CounterSort\obj\Debug\net6.0\CounterSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\BootCamp\sort_methods\CounterSort\obj\Debug\net6.0\CounterSort.AssemblyInfoInputs.cache
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\BootCamp\sort_methods\CounterSort\obj\Debug\net6.0\CounterSort.AssemblyInfo.cs
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\BootCamp\sort_methods\CounterSort\obj\Debug\net6.0\CounterSort.csproj.CoreCompileInputs.cache
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\BootCamp\sort_methods\CounterSort\obj\Debug\net6.0\CounterSort.dll
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\BootCamp\sort_methods\CounterSort\obj\Debug\net6.0\refint\CounterSort.dll
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\BootCamp\sort_methods\CounterSort\obj\Debug\net6.0\CounterSort.pdb
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\BootCamp\sort_methods\CounterSort\obj\Debug\net6.0\CounterSort.genruntimeconfig.cache
+C:\Users\staso\OneDrive\Документы\programming\GB\С#\BootCamp\sort_methods\CounterSort\obj\Debug\net6.0\ref\CounterSort.dll
