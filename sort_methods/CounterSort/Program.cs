@@ -2,7 +2,9 @@
 using My_P;
 
 const int THREADS_NUM = 4; // количество потоков
-const int N = 1000; // количество элементов массива
+const int N = 10000; // количество элементов массива
+
+object locker = new object();
 
 
 int[] myArray = My_program.GetRandomArray(N, -10, 10);
@@ -42,22 +44,23 @@ void PrepareParallelCountingSort(int[] inputArr)
     {
         thread.Join();
     }
+    int index = 0;
+    for (int i = 0; i < counters.Length; i++)
+    {
+        for (int j = 0; j < counters[i]; j++)
+        {
+            inputArr[index] = i - offset;
+            index++;
+        }
+    }
 }
 
 void ParallelCountSort(int[]arr, int[] counter, int start, int end, int offset)
 {
     for (int i = start; i < end; i++)
+    lock (locker)
     {
         counter[arr[i] + offset]++;
-    }
-    int index = 0;
-    for (int i = 0; i < counter.Length; i++)
-    {
-        for (int j = 0; j < counter[i]; j++)
-        {
-            arr[index] = i - offset;
-            index++;
-        }
     }
 }
 
