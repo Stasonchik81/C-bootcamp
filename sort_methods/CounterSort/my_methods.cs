@@ -41,6 +41,15 @@ namespace My_P
             }
             return arr;
         }
+        public static bool EqualityArray(int[] first, int[] second, int size)
+        {
+            bool res = true;
+            for (int i = 0; i < size; i++)
+            {
+                res = res && (first[i] == second[i]);
+            }
+            return res;
+        }
     }
 
 }
